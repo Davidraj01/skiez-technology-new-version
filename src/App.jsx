@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Footer from './components/Footer';
 import { Toaster } from "react-hot-toast";
 import { Loader2 } from "lucide-react";
-import PrivacyTechnologies from "./pages/privacy";
+import PrivacyTechnologies from "./pages/Privacy";
 import TermsTechnologies from "./pages/Terms";
 
 // Lazy load pages
